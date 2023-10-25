@@ -1,3 +1,7 @@
+Result:
+![Tugas18](https://github.com/Fery99/Test_API/assets/112610926/9cad1b7d-6a8c-4c2a-b1d2-d441feed470e)
+
+
 # API_TEST
 Test API of "https://reqres.in/ " .Using Request API and JSON Schema.
 
